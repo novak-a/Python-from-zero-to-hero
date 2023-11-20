@@ -6,9 +6,9 @@ Define relevant variables to capture the details of an individual:
 - Surname: Novak
 - Age: 23
 - Address:
-- Married: No
     - City: Prague
     - Country: Czech Republic
+- Married: No
 - Hobbies: Programming, Gaming
 
 ```python
