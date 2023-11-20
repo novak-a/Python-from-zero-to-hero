@@ -1,7 +1,7 @@
 # Assignment (EN)
 
 Create correct examples for each of the following data types: Integer, Float, Complex, String, List, Dictionary, Set, Tuple, Boolean. 
-Verify their correctness using the type() function and display the results on the screen.
+Verify their correctness using the `type()` function and display the results on the screen.
 
 ```python
 #
