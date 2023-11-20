@@ -7,6 +7,6 @@ Define relevant variables to capture the details of an individual:
 - Age: 23
 - Address:
 - Married: No
-- - City: Prague
-- - Country: Czech Republic
+    - City: Prague
+    - Country: Czech Republic
 - Hobbies: Programming, Gaming
