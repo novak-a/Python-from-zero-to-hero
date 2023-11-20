@@ -1,3 +1,7 @@
+#
+# Author: Adam Novak
+#
+
 name = "Adam"
 surname = "Novak"
 age = 23
