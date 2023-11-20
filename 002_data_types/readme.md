@@ -1,6 +1,6 @@
 # Assignment (EN)
 
-Generate correct examples for each of the following data types. 
+Create correct examples for each of the following data types. 
 Verify their correctness using the type() function and display the results on the screen.
 
 - Integer
