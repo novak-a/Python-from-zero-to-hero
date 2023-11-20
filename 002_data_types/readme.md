@@ -11,3 +11,4 @@ Verify their correctness using the type() function and display the results on th
 - Dictionary
 - Set
 - Tuple
+- Boolean
